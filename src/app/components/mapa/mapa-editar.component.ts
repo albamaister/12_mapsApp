@@ -23,7 +23,7 @@ export class MapaEditarComponent implements OnInit {
     }
 
     guardarCambios() {
-      console.log('!!');
+      this.dialogRef.close(this.forma.value);
     }
 
     onNoClick(): void {
