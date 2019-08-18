@@ -2,26 +2,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
-## Development server
+Uso de Google Maps en un proyecto con Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Creación del API KEY de Google Maps
 
-## Code scaffolding
+Uso de Reactive Forms - FormBuilder
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Creación de marcadores en el mapa
 
-## Build
+Eventos y diversas interacciones con los mapas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Edición de marcadores
 
-## Running unit tests
+Uso de Angular Material en el proyecto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+      Dialogs
+      Snacks
+      Inputs
+      Toolbars
+      Themes
+      
+ ![alt text](https://github.com/albamaister/12_mapsApp/blob/master/src/assets/map.png) 
