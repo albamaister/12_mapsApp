@@ -47,7 +47,14 @@ export class MapaComponent implements OnInit {
       data: {titulo: marcador.titulo, desc: marcador.desc}
     });
 
+    dialogRef.afterClosed().subscribe(result => {
+      console.log('The dialog was closed');
+      console.log(result);
+    });
+
    }
+
+   
 
   ngOnInit() {
   }
